@@ -6,7 +6,7 @@ This repository is maintained by Zongjin Li Lab for the RNA sequencing study of 
 
 ## Repository status
 
-The repository has been initialized. Data and analysis scripts have not yet been uploaded.
+The repository has been initialized. Data and analysis scripts have  yet been uploaded.
 
 ## Data and analysis
 
